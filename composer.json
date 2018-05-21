@@ -1,0 +1,19 @@
+{
+  "name": "long",
+  "description": ";ong",
+  "keywords": ["php", "kjia"],
+  "license": "MIT",
+  "type": "project",
+  "require": {
+    "php": ">=5.5.9"
+  },
+  "require-dev": {
+    "catfan/Medoo": "*"
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  }
+}
